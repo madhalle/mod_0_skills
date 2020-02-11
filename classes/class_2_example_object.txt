@@ -1,0 +1,12 @@
+Mac_and_cheese
+
+noodle_type: "Shell"
+serving_size: 1
+sauce_type: "white cheese"
+toppings: ["Bacon", "Peas"]
+
+change_noodle_type: changes "Shell" to "Linguini"
+get_large_size: changes serving_size to 2
+get_small_size: changes serving_size to 1
+choose_sauce: updates sauce_type to "three cheese"
+add_toppings: updates toppings to ["Bacon", "Peas", "Pepper"]
