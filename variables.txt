@@ -1,0 +1,28 @@
+food = "Chocolate cake"
+=> "Chocolate cake"
+
+is_new = false
+=> false
+
+food = "Smoothie"
+=> "Smoothie"
+  food
+=> "Smoothie"
+
+num1 = 47
+=> 47
+
+num2 = 21
+=> 21
+
+num1 * num2
+=> 987
+
+num3 = num1 * num2
+=> 987
+
+movies = ["Harry Potter and the Prisoner of Askeban", "Harry Potter and the Half Blood Prince", "Harry Potter and the Sourcerers Stone"]
+=> ["Harry Potter and the Prisoner of Askeban", "Harry Potter and the Half Blood Prince", "Harry Potter and the Sourcerers Stone"]
+
+movies.count
+=> 3
