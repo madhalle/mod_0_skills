@@ -1,0 +1,12 @@
+Drink
+
+is_cold: boolean
+is_alcoholic: boolean
+ounces: integer
+flavor: string
+amount_consumed: integer
+
+refill: resets amount_consumed to same # as ounces
+non_alcoholic: changes is_alcoholic to false
+hot_drink: changes is_cold to false
+diff_flavor: updates string to new flavor
