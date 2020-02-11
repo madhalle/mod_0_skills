@@ -1,0 +1,14 @@
+Margarita
+
+is_cold: true
+is_alcoholic: true
+ounces: 8
+flavor: "Jalapeno Margarita"
+amount_consumed: 2
+
+
+check_oz_until_empty: 8-2 = 6
+refill: resets amount consumed to 0
+make_non_alcoholic: sets is_alcoholic from true to false
+change_flavor: updates flavor to "Classic Margarita"
+heat_drink: changes is_cold to false 
