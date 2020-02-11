@@ -1,0 +1,12 @@
+Pasta
+
+noodle_type: string
+serving_size: integer (starts at 0)
+sauce_type: string
+toppings: array
+
+change_noodle_type: updates string
+get_large_size: adds 2 to serving_size
+get_small_sizeL adds 1 to serving_size
+choose_sauce: updates sauce_type string
+choose_toppings: updates toppings array
